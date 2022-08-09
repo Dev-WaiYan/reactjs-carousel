@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  overflow-x: hidden;
+}
+
+.container .contentContainer {
+  margin: 0 10px;
+}
